@@ -1,6 +1,6 @@
 #include "Button.hpp"
 
-#include "../Class/Font.hpp""
+#include "../Class/Font.hpp"
 #include "Text.hpp"
 #include "fmt/color.h"
 

@@ -1,0 +1,12 @@
+.idea/
+cmake-build-release/.cmake/
+cmake-build-release/_deps/
+cmake-build-release/CMakeFiles/
+cmake-build-release/objs/
+cmake-build-release/Testing/
+cmake-build-release/cmake_install.cmake
+cmake-build-release/CMakeCache.txt
+cmake-build-release/CPackConfig.cmake
+cmake-build-release/CPackSourceConfig.cmake
+cmake-build-release/Makefile
+cmake-build-debug/
